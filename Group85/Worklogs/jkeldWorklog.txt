@@ -1,0 +1,18 @@
+Jacob:
+
+Week of 9th Nov, 2020:
+-11th November: 11:55 AM EnsureDataConsistency.sql
+- Before.sql:
+    - Q16 completed by Jacob at 2:00pm, 14th Nov
+	- Q7 completed by Jacob at 3:08PM, 14th Nov
+    - Q23 and Q3 completed by Jacob at 3:44pm, 14th Nov
+- Perf.pdf
+	- Both Evelyn and Jacob worked on updating "before optimisation" column together at 5:30pm, 14th Nov
+- Group85Project.java
+	- jacob created java file at 9:12pm 14th Nov
+Week of 16th Nov, 2020:
+-Group85Project.java
+    	- added queries to file and began testing done by Jacob 12:03 AM, 16th Nov
+	- completed reformatting of Q16, Q18, Q23 to parameterised format in Java file to suit project specifications, 1:30pm, 16th Nov
+
+Project completed: 1:30pm, 16th Nov 2020.

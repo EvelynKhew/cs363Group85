@@ -1,0 +1,25 @@
+Evelyn:
+Week of 1st Nov, 2020:
+- Started designing schemas for Extra Credit Assignment (2 hours, 1st Nov)
+- Continued designing schemas (12:30pm - 2:30pm, 3rd Nov)
+- Completed Extra Credit Assignment at 2:30pm, 3rd Nov. 
+
+Week of 9th Nov, 2020:
+- Completed schema design (7:29pm, 9th Nov)
+- Completed CreateDBUsers.sql (11:48am, 14th Nov)
+- Q9 completed by Evelyn at 12:37pm, 14th Nov
+- Q18 completed by Evelyn at 4:23pm, 14th Nov
+- Insertion completed by Evelyn at 4:27pm, 14th Nov
+- Deletion completed by Evelyn at 4:43pm, 14th Nov
+- Evelyn fixed Q3 to remove "na" state option at 4:57pm, 14th Nov
+- completed Perf.pdf with Jacob at 8:34pm, 14th Nov
+- redesign for Q9 completed by Evelyn at 7:14pm, 14th Nov 
+- Indices for hastagname and year_posted created by Evelyn at 7:57pm, 14th Nov
+- Index of for month_posted created by Evelyn at 8:12pm, 14th Nov
+
+Week of 16th Nov, 2020:
+- started reformatting Q3, Q7, Q9 to parameterised format in Java file to suit project specifications, 12.15pm, 16th Nov
+- completed Q3, Q7, Q9, Insertion, Deletion with help of Jacob at 1:30pm, 16th Nov
+
+
+Project completed: 1:30pm, 16th Nov 2020.
